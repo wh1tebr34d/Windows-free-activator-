@@ -14,4 +14,4 @@ very simple but i just wanted to automate it honestly cause my friend had a issu
 
 ![Screenshot 1](Screenshot1.png)
 
-![Screenshot 2](Screenshot2.png)
+![Screenshot 2](screenshot2.png)
