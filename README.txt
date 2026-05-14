@@ -6,4 +6,4 @@ its going to load then after should just take like 3 seconds and then tell you t
 
 very simple but i just wanted to automate it honestly cause my friend had a issue setting it up somehow
 
-![image](logo.png)
+![banner](https://github.com/user-attachments/assets/b39371d6-922b-45ae-b983-83caf7cb13c6)
