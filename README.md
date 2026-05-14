@@ -1,7 +1,7 @@
 # Windows Free Activator
 
 ![banner](logo.png)
-
+# Download instructions
 Open the ignite.exe 
 
 its gonna ask for admin because its making changes to your pc (obviously)
