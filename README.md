@@ -10,3 +10,8 @@ its going to load then after should just take like 3 seconds and then tell you t
 
 very simple but i just wanted to automate it honestly cause my friend had a issue setting it up somehow
 
+# Screenshots
+
+![Screenshot 1](Screenshot 2026-05-13 210549.png)
+
+![Screenshot 2](Screenshot 2026-05-13 210554.png)
