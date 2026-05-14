@@ -15,4 +15,5 @@ very simple but i just wanted to automate it honestly cause my friend had a issu
 ![Screenshot 1](Screenshot1.png)
 
 ![Screenshot 2](screenshot2.png)
+
 i have windows already from using this command so it shows that i already have it ion know why i added this  feture but shit why not freewill and shit
