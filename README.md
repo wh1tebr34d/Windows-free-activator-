@@ -1,3 +1,7 @@
+# Windows Free Activator
+
+![banner](logo.png)
+
 Open the ignite.exe 
 
 its gonna ask for admin because its making changes to your pc (obviously)
@@ -6,6 +10,3 @@ its going to load then after should just take like 3 seconds and then tell you t
 
 very simple but i just wanted to automate it honestly cause my friend had a issue setting it up somehow
 
-# Windows Free Activator
-
-![banner](logo.png)
